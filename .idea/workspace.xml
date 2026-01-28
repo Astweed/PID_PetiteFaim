@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9a78d71e-089d-4f65-988a-6571c6cf08a2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/PetiteFaim_Django.iml" afterDir="false" />
@@ -81,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769606471964</updated>
-      <workItem from="1769606472980" duration="332000" />
+      <workItem from="1769606472980" duration="631000" />
     </task>
     <servers />
   </component>
